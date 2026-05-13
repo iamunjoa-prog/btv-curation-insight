@@ -1,0 +1,5 @@
+-e streamlit
+pandas
+numpy
+openpyxl
+plotly
